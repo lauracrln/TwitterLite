@@ -21,9 +21,8 @@ This project also covered with unit test for View Model
 
 # Getting started
 1. Open TwitterLite xcworkspace in XCode
-2. Add the scheme if its missing 
-3. Run `pod install`
-4. Run the project on simulator
+2. Run `pod install`
+3. Run the project on simulator
 
 
 # Things to improve / develop more in the future
