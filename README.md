@@ -31,6 +31,7 @@ This project also covered with unit test for View Model
 3. Change the service to not be a Singleton
 4. Showing preview for the Image Uploaded
 5. Can use RxSwift to improve the data changes observer
+6. Add more error handling
 
 
 
